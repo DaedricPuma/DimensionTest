@@ -1,0 +1,6056 @@
+fileFormatVersion: 2
+guid: b3fd455cf2f50154aae039d88cf0bf73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4000008512076529485
+    second: DimensionStart0.5_0
+  - first:
+      213: -6840987996131148428
+    second: DimensionStart0.5_1
+  - first:
+      213: -1802613497474191184
+    second: DimensionStart0.5_2
+  - first:
+      213: -6206716754546405147
+    second: DimensionStart0.5_3
+  - first:
+      213: 8179580775117619111
+    second: DimensionStart0.5_4
+  - first:
+      213: -3245797494753346617
+    second: DimensionStart0.5_5
+  - first:
+      213: -8191563430107206275
+    second: DimensionStart0.5_6
+  - first:
+      213: 5670311200488201045
+    second: DimensionStart0.5_7
+  - first:
+      213: -60164433117145629
+    second: DimensionStart0.5_8
+  - first:
+      213: -5764065579071027551
+    second: DimensionStart0.5_9
+  - first:
+      213: -2024977184962208916
+    second: DimensionStart0.5_10
+  - first:
+      213: 4013288784216508865
+    second: DimensionStart0.5_11
+  - first:
+      213: -7229490695874559827
+    second: DimensionStart0.5_12
+  - first:
+      213: -3299381669911489564
+    second: DimensionStart0.5_13
+  - first:
+      213: -3465895565550388289
+    second: DimensionStart0.5_14
+  - first:
+      213: 7573596249339062044
+    second: DimensionStart0.5_15
+  - first:
+      213: 1393346762159760454
+    second: DimensionStart0.5_16
+  - first:
+      213: 1264674210924317850
+    second: DimensionStart0.5_17
+  - first:
+      213: -4172477371907742791
+    second: DimensionStart0.5_18
+  - first:
+      213: -4696812670419831302
+    second: DimensionStart0.5_19
+  - first:
+      213: -5398362712563316449
+    second: DimensionStart0.5_20
+  - first:
+      213: 2636173250318031319
+    second: DimensionStart0.5_21
+  - first:
+      213: 1404658197364745615
+    second: DimensionStart0.5_22
+  - first:
+      213: 5310484024112117712
+    second: DimensionStart0.5_23
+  - first:
+      213: 3037329811109301562
+    second: DimensionStart0.5_24
+  - first:
+      213: -8341218535088842244
+    second: DimensionStart0.5_25
+  - first:
+      213: 7624467672082221633
+    second: DimensionStart0.5_26
+  - first:
+      213: -5512309774273610534
+    second: DimensionStart0.5_27
+  - first:
+      213: 5887730677234365917
+    second: DimensionStart0.5_28
+  - first:
+      213: -4988511686720369623
+    second: DimensionStart0.5_29
+  - first:
+      213: -7328595558792327361
+    second: DimensionStart0.5_30
+  - first:
+      213: -5461977489454333817
+    second: DimensionStart0.5_31
+  - first:
+      213: -3701873568047676966
+    second: DimensionStart0.5_32
+  - first:
+      213: -7022892729313778789
+    second: DimensionStart0.5_33
+  - first:
+      213: -6573236536962452691
+    second: DimensionStart0.5_34
+  - first:
+      213: 253691750442748984
+    second: DimensionStart0.5_35
+  - first:
+      213: -7189463506173083951
+    second: DimensionStart0.5_36
+  - first:
+      213: 8170715956953764407
+    second: DimensionStart0.5_37
+  - first:
+      213: 7752552942799878766
+    second: DimensionStart0.5_38
+  - first:
+      213: 1774003289141589395
+    second: DimensionStart0.5_39
+  - first:
+      213: -5121272161642020724
+    second: DimensionStart0.5_40
+  - first:
+      213: 8422321526473124994
+    second: DimensionStart0.5_41
+  - first:
+      213: -406372470556543692
+    second: DimensionStart0.5_42
+  - first:
+      213: 6121020717648371897
+    second: DimensionStart0.5_43
+  - first:
+      213: 9156787533989200970
+    second: DimensionStart0.5_44
+  - first:
+      213: 8633966753954515359
+    second: DimensionStart0.5_45
+  - first:
+      213: 3784885947517281392
+    second: DimensionStart0.5_46
+  - first:
+      213: -7907403214808255377
+    second: DimensionStart0.5_47
+  - first:
+      213: 1091351006042629158
+    second: DimensionStart0.5_48
+  - first:
+      213: 5232987701153090653
+    second: DimensionStart0.5_49
+  - first:
+      213: -9102057728747475728
+    second: DimensionStart0.5_50
+  - first:
+      213: 4093333776395476919
+    second: DimensionStart0.5_51
+  - first:
+      213: 6828179561788412750
+    second: DimensionStart0.5_52
+  - first:
+      213: -8307921346253642324
+    second: DimensionStart0.5_53
+  - first:
+      213: -4059545759205308445
+    second: DimensionStart0.5_54
+  - first:
+      213: 5701143012165637100
+    second: DimensionStart0.5_55
+  - first:
+      213: 804796302170357974
+    second: DimensionStart0.5_56
+  - first:
+      213: 6772723226636210974
+    second: DimensionStart0.5_57
+  - first:
+      213: -8207187747576999933
+    second: DimensionStart0.5_58
+  - first:
+      213: 5151506515628791437
+    second: DimensionStart0.5_59
+  - first:
+      213: -4876822348154638503
+    second: DimensionStart0.5_60
+  - first:
+      213: 7359099506705054285
+    second: DimensionStart0.5_61
+  - first:
+      213: 3615490277021325944
+    second: DimensionStart0.5_62
+  - first:
+      213: 8863968317105227730
+    second: DimensionStart0.5_63
+  - first:
+      213: 8408129186381103510
+    second: DimensionStart0.5_64
+  - first:
+      213: -7089533900015384252
+    second: DimensionStart0.5_65
+  - first:
+      213: -128917963284941142
+    second: DimensionStart0.5_66
+  - first:
+      213: -7344400441140939646
+    second: DimensionStart0.5_67
+  - first:
+      213: -2541019338307067063
+    second: DimensionStart0.5_68
+  - first:
+      213: -686232095571243607
+    second: DimensionStart0.5_69
+  - first:
+      213: 3621307419498257055
+    second: DimensionStart0.5_70
+  - first:
+      213: 4429306261762450072
+    second: DimensionStart0.5_71
+  - first:
+      213: -2564861412495572919
+    second: DimensionStart0.5_72
+  - first:
+      213: -4293413189363041241
+    second: DimensionStart0.5_73
+  - first:
+      213: 1760468832208930027
+    second: DimensionStart0.5_74
+  - first:
+      213: -2563228972690166501
+    second: DimensionStart0.5_75
+  - first:
+      213: -8530824199338000830
+    second: DimensionStart0.5_76
+  - first:
+      213: 5600766393819087169
+    second: DimensionStart0.5_77
+  - first:
+      213: -3925546123191981692
+    second: DimensionStart0.5_78
+  - first:
+      213: 6869199156238063338
+    second: DimensionStart0.5_79
+  - first:
+      213: -1372415970778864572
+    second: DimensionStart0.5_80
+  - first:
+      213: -4559532935618800468
+    second: DimensionStart0.5_81
+  - first:
+      213: -4324857177403000293
+    second: DimensionStart0.5_82
+  - first:
+      213: -5779508774215502760
+    second: DimensionStart0.5_83
+  - first:
+      213: 490239529915296856
+    second: DimensionStart0.5_84
+  - first:
+      213: 858609542937309384
+    second: DimensionStart0.5_85
+  - first:
+      213: -4697150936441551592
+    second: DimensionStart0.5_86
+  - first:
+      213: 4080490461367825506
+    second: DimensionStart0.5_87
+  - first:
+      213: 9104237146827821694
+    second: DimensionStart0.5_88
+  - first:
+      213: 3684829478052204517
+    second: DimensionStart0.5_89
+  - first:
+      213: 7133961421996134304
+    second: DimensionStart0.5_90
+  - first:
+      213: 1892492810818228183
+    second: DimensionStart0.5_91
+  - first:
+      213: 4325156916611977913
+    second: DimensionStart0.5_92
+  - first:
+      213: 4606697873739696654
+    second: DimensionStart0.5_93
+  - first:
+      213: -2563251823013679339
+    second: DimensionStart0.5_94
+  - first:
+      213: 1099007836544635652
+    second: DimensionStart0.5_95
+  - first:
+      213: 331589539447621478
+    second: DimensionStart0.5_96
+  - first:
+      213: -950777230801156832
+    second: DimensionStart0.5_97
+  - first:
+      213: -5780530618151200158
+    second: DimensionStart0.5_98
+  - first:
+      213: 698109176052906103
+    second: DimensionStart0.5_99
+  - first:
+      213: -6085007590857980063
+    second: DimensionStart0.5_100
+  - first:
+      213: 6846988922353866980
+    second: DimensionStart0.5_101
+  - first:
+      213: -1498594877131597558
+    second: DimensionStart0.5_102
+  - first:
+      213: -5488881199687246190
+    second: DimensionStart0.5_103
+  - first:
+      213: -4229357697698362246
+    second: DimensionStart0.5_104
+  - first:
+      213: 4037226683501597758
+    second: DimensionStart0.5_105
+  - first:
+      213: -3339648780703312657
+    second: DimensionStart0.5_106
+  - first:
+      213: -6823046691411804180
+    second: DimensionStart0.5_107
+  - first:
+      213: 6151016877329105997
+    second: DimensionStart0.5_108
+  - first:
+      213: -2785972308776579013
+    second: DimensionStart0.5_109
+  - first:
+      213: -5577154488905550313
+    second: DimensionStart0.5_110
+  - first:
+      213: 7067472815491506835
+    second: DimensionStart0.5_111
+  - first:
+      213: -1994778149788601713
+    second: DimensionStart0.5_112
+  - first:
+      213: 4257468938632998201
+    second: DimensionStart0.5_113
+  - first:
+      213: -2104189087304993867
+    second: DimensionStart0.5_114
+  - first:
+      213: 1925497714592075512
+    second: DimensionStart0.5_115
+  - first:
+      213: -4386111711346455128
+    second: DimensionStart0.5_116
+  - first:
+      213: -5671091730007024339
+    second: DimensionStart0.5_117
+  - first:
+      213: -7539343217565105901
+    second: DimensionStart0.5_118
+  - first:
+      213: -6119452857554774915
+    second: DimensionStart0.5_119
+  - first:
+      213: -7846383444637754665
+    second: DimensionStart0.5_120
+  - first:
+      213: -6962431874500148578
+    second: DimensionStart0.5_121
+  - first:
+      213: -1814681517787958462
+    second: DimensionStart0.5_122
+  - first:
+      213: 410617273154953979
+    second: DimensionStart0.5_123
+  - first:
+      213: -3684187474173687668
+    second: DimensionStart0.5_124
+  - first:
+      213: 9084141632015243850
+    second: DimensionStart0.5_125
+  - first:
+      213: 8707549714769930917
+    second: DimensionStart0.5_126
+  - first:
+      213: 8199468826003719673
+    second: DimensionStart0.5_127
+  - first:
+      213: 960922314448522852
+    second: DimensionStart0.5_128
+  - first:
+      213: 8622595177826423168
+    second: DimensionStart0.5_129
+  - first:
+      213: -3377130234897921790
+    second: DimensionStart0.5_130
+  - first:
+      213: -5225598073822559893
+    second: DimensionStart0.5_131
+  - first:
+      213: 2886890361487036531
+    second: DimensionStart0.5_132
+  - first:
+      213: -4266329651957134081
+    second: DimensionStart0.5_133
+  - first:
+      213: 7994216461514713831
+    second: DimensionStart0.5_134
+  - first:
+      213: -5282116350696004773
+    second: DimensionStart0.5_135
+  - first:
+      213: -5736756814571956954
+    second: DimensionStart0.5_136
+  - first:
+      213: 5345358949863733762
+    second: DimensionStart0.5_137
+  - first:
+      213: -6205570412720767638
+    second: DimensionStart0.5_138
+  - first:
+      213: 4347213125583521019
+    second: DimensionStart0.5_139
+  - first:
+      213: -827898402346342658
+    second: DimensionStart0.5_140
+  - first:
+      213: 7319228990974629430
+    second: DimensionStart0.5_141
+  - first:
+      213: 8438367028233533143
+    second: DimensionStart0.5_142
+  - first:
+      213: 8022179030629394503
+    second: DimensionStart0.5_143
+  - first:
+      213: -1440043130732471425
+    second: DimensionStart0.5_144
+  - first:
+      213: -9109103343097025900
+    second: DimensionStart0.5_145
+  - first:
+      213: 7566350434952481439
+    second: DimensionStart0.5_146
+  - first:
+      213: 7875194746526799052
+    second: DimensionStart0.5_147
+  - first:
+      213: -9150651598012148247
+    second: DimensionStart0.5_148
+  - first:
+      213: 4558050329685993283
+    second: DimensionStart0.5_149
+  - first:
+      213: 5302195635028465003
+    second: DimensionStart0.5_150
+  - first:
+      213: 3021119842195237133
+    second: DimensionStart0.5_151
+  - first:
+      213: 9076852988523269180
+    second: DimensionStart0.5_152
+  - first:
+      213: -7415758587325487986
+    second: DimensionStart0.5_153
+  - first:
+      213: -4128353993603497505
+    second: DimensionStart0.5_154
+  - first:
+      213: 7877132146904701913
+    second: DimensionStart0.5_155
+  - first:
+      213: -5629512336709542490
+    second: DimensionStart0.5_156
+  - first:
+      213: -7686511986870919609
+    second: DimensionStart0.5_157
+  - first:
+      213: -6352234723214221597
+    second: DimensionStart0.5_158
+  - first:
+      213: -2225682744834488616
+    second: DimensionStart0.5_159
+  - first:
+      213: 8153760189937356059
+    second: DimensionStart0.5_160
+  - first:
+      213: -7206308775141156217
+    second: DimensionStart0.5_161
+  - first:
+      213: 3880868984970348553
+    second: DimensionStart0.5_162
+  - first:
+      213: 8460463099271236761
+    second: DimensionStart0.5_163
+  - first:
+      213: 4150049667205405510
+    second: DimensionStart0.5_164
+  - first:
+      213: 3827427892502100180
+    second: DimensionStart0.5_165
+  - first:
+      213: 4544148429256249448
+    second: DimensionStart0.5_166
+  - first:
+      213: 4997268740491112618
+    second: DimensionStart0.5_167
+  - first:
+      213: -5504073252851304562
+    second: DimensionStart0.5_168
+  - first:
+      213: -3731540489203459145
+    second: DimensionStart0.5_169
+  - first:
+      213: 8123288541845143697
+    second: DimensionStart0.5_170
+  - first:
+      213: 8729476661728525273
+    second: DimensionStart0.5_171
+  - first:
+      213: -6833775804081356714
+    second: DimensionStart0.5_172
+  - first:
+      213: 5842725758679186387
+    second: DimensionStart0.5_173
+  - first:
+      213: -439565317886552142
+    second: DimensionStart0.5_174
+  - first:
+      213: -1555888517214457835
+    second: DimensionStart0.5_175
+  - first:
+      213: -3231191127659194647
+    second: DimensionStart0.5_176
+  - first:
+      213: 9164300979075732020
+    second: DimensionStart0.5_177
+  - first:
+      213: -2354238953723936107
+    second: DimensionStart0.5_178
+  - first:
+      213: -1525038650703059421
+    second: DimensionStart0.5_179
+  - first:
+      213: -3891757151564742945
+    second: DimensionStart0.5_180
+  - first:
+      213: -2815479639968527447
+    second: DimensionStart0.5_181
+  - first:
+      213: -3031545001474163624
+    second: DimensionStart0.5_182
+  - first:
+      213: 6708596902702656936
+    second: DimensionStart0.5_183
+  - first:
+      213: 6789230651921678839
+    second: DimensionStart0.5_184
+  - first:
+      213: -3544637838613770857
+    second: DimensionStart0.5_185
+  - first:
+      213: 3206706247113723475
+    second: DimensionStart0.5_186
+  - first:
+      213: 3624763651696933015
+    second: DimensionStart0.5_187
+  - first:
+      213: -2956456619147371826
+    second: DimensionStart0.5_188
+  - first:
+      213: 5554285748217300062
+    second: DimensionStart0.5_189
+  - first:
+      213: -8520506363589796188
+    second: DimensionStart0.5_190
+  - first:
+      213: -231667725421613957
+    second: DimensionStart0.5_191
+  - first:
+      213: 5300234606402968249
+    second: DimensionStart0.5_192
+  - first:
+      213: 8591998788602603475
+    second: DimensionStart0.5_193
+  - first:
+      213: -7474961834216709093
+    second: DimensionStart0.5_194
+  - first:
+      213: -6237345970759222144
+    second: DimensionStart0.5_195
+  - first:
+      213: 1442464777605558670
+    second: DimensionStart0.5_196
+  - first:
+      213: -7644281407732490012
+    second: DimensionStart0.5_197
+  - first:
+      213: -4146266419128171652
+    second: DimensionStart0.5_198
+  - first:
+      213: 2831533078618148622
+    second: DimensionStart0.5_199
+  - first:
+      213: 3036918948288590706
+    second: DimensionStart0.5_200
+  - first:
+      213: -2561643578998781885
+    second: DimensionStart0.5_201
+  - first:
+      213: -2810197150872855700
+    second: DimensionStart0.5_202
+  - first:
+      213: -8844977103243539396
+    second: DimensionStart0.5_203
+  - first:
+      213: -1113947559528279488
+    second: DimensionStart0.5_204
+  - first:
+      213: -7337602045431987348
+    second: DimensionStart0.5_205
+  - first:
+      213: -3147425627586246424
+    second: DimensionStart0.5_206
+  - first:
+      213: -8722432636834104615
+    second: DimensionStart0.5_207
+  - first:
+      213: 5865320467148588512
+    second: DimensionStart0.5_208
+  - first:
+      213: -3750471278313526270
+    second: DimensionStart0.5_209
+  - first:
+      213: 4775638833119521968
+    second: DimensionStart0.5_210
+  - first:
+      213: -7193485232475788622
+    second: DimensionStart0.5_211
+  - first:
+      213: 9072140006406334550
+    second: DimensionStart0.5_212
+  - first:
+      213: -7751954804825378684
+    second: DimensionStart0.5_213
+  - first:
+      213: -2997620206056900879
+    second: DimensionStart0.5_214
+  - first:
+      213: -2024752989506882834
+    second: DimensionStart0.5_215
+  - first:
+      213: 7683232711940978350
+    second: DimensionStart0.5_216
+  - first:
+      213: 7984781672846428754
+    second: DimensionStart0.5_217
+  - first:
+      213: -6477176588786763394
+    second: DimensionStart0.5_218
+  - first:
+      213: -1987020767560791421
+    second: DimensionStart0.5_219
+  - first:
+      213: 3631793863218487583
+    second: DimensionStart0.5_220
+  - first:
+      213: 7719329096877241625
+    second: DimensionStart0.5_221
+  - first:
+      213: 3395962706345095218
+    second: DimensionStart0.5_222
+  - first:
+      213: 7835499357607863589
+    second: DimensionStart0.5_223
+  - first:
+      213: 8181126854410921480
+    second: DimensionStart0.5_224
+  - first:
+      213: 248258241924068730
+    second: DimensionStart0.5_225
+  - first:
+      213: -2269634213544232483
+    second: DimensionStart0.5_226
+  - first:
+      213: -3933348701457014038
+    second: DimensionStart0.5_227
+  - first:
+      213: -4868835312889638793
+    second: DimensionStart0.5_228
+  - first:
+      213: -271579579846701057
+    second: DimensionStart0.5_229
+  - first:
+      213: -7305855945380225732
+    second: DimensionStart0.5_230
+  - first:
+      213: 6494441842455020263
+    second: DimensionStart0.5_231
+  - first:
+      213: -8232586529592133562
+    second: DimensionStart0.5_232
+  - first:
+      213: 8141744419033150624
+    second: DimensionStart0.5_233
+  - first:
+      213: -6131146353380491795
+    second: DimensionStart0.5_234
+  - first:
+      213: -1743714659173543312
+    second: DimensionStart0.5_235
+  - first:
+      213: 1791956525240696679
+    second: DimensionStart0.5_236
+  - first:
+      213: 1290011811627671853
+    second: DimensionStart0.5_237
+  - first:
+      213: -8329140358648793037
+    second: DimensionStart0.5_238
+  - first:
+      213: -4537219356437116811
+    second: DimensionStart0.5_239
+  - first:
+      213: 3885171995124786431
+    second: DimensionStart0.5_240
+  - first:
+      213: -3562070023349685817
+    second: DimensionStart0.5_241
+  - first:
+      213: -8431331625691775833
+    second: DimensionStart0.5_242
+  - first:
+      213: 7460624631471190480
+    second: DimensionStart0.5_243
+  - first:
+      213: -757531476037118013
+    second: DimensionStart0.5_244
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DimensionStart0.5_0
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0c323837d1d78c0800000000000000
+      internalID: -4000008512076529485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d34e1a9adef01a0800000000000000
+      internalID: -6840987996131148428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0f9bf1394dbf6e0800000000000000
+      internalID: -1802613497474191184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0dbcf0fff4dd9a0800000000000000
+      internalID: -6206716754546405147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afff70b065b38170800000000000000
+      internalID: 8179580775117619111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbbf50206c94f2d0800000000000000
+      internalID: -3245797494753346617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d21690678b15e80800000000000000
+      internalID: -8191563430107206275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b94078efdf0be40800000000000000
+      internalID: 5670311200488201045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e590ff44c04a2ff0800000000000000
+      internalID: -60164433117145629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a64a6925ece100b0800000000000000
+      internalID: -5764065579071027551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b9e04aaf5d5e3e0800000000000000
+      internalID: -2024977184962208916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9c84cc2e012b730800000000000000
+      internalID: 4013288784216508865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0c76df380bbab90800000000000000
+      internalID: -7229490695874559827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e39d722add3632d0800000000000000
+      internalID: -3299381669911489564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb74c2a85aa6efc0800000000000000
+      internalID: -3465895565550388289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17e51289a1da1960800000000000000
+      internalID: 7573596249339062044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64429777f79265310800000000000000
+      internalID: 1393346762159760454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ccdba8e760d8110800000000000000
+      internalID: 1264674210924317850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3651edfe16816c0800000000000000
+      internalID: -4172477371907742791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af57213d2c191deb0800000000000000
+      internalID: -4696812670419831302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1903f4f6b92515b0800000000000000
+      internalID: -5398362712563316449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_21
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9d797aa91959420800000000000000
+      internalID: 2636173250318031319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8524c430395e7310800000000000000
+      internalID: 1404658197364745615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_23
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7f6927511a2b940800000000000000
+      internalID: 5310484024112117712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dcfd8ee53c62a20800000000000000
+      internalID: 3037329811109301562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_25
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9102e9fe90e3c80800000000000000
+      internalID: -8341218535088842244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a09eb93fc8fc960800000000000000
+      internalID: 7624467672082221633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_27
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcf18c37775083b0800000000000000
+      internalID: -5512309774273610534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_28
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd579bd3bdb65b150800000000000000
+      internalID: 5887730677234365917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_29
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cc52b1d0f35cab0800000000000000
+      internalID: -4988511686720369623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_30
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f8da7fa299b4a90800000000000000
+      internalID: -7328595558792327361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78005e189682334b0800000000000000
+      internalID: -5461977489454333817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad14c1d6a9d40acc0800000000000000
+      internalID: -3701873568047676966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b932495854ca98e90800000000000000
+      internalID: -7022892729313778789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23fbb5323c27c4a0800000000000000
+      internalID: -6573236536962452691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c469b8d4b458300800000000000000
+      internalID: 253691750442748984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de3be45805e93c90800000000000000
+      internalID: -7189463506173083951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73258de5fd6346170800000000000000
+      internalID: 8170715956953764407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6afef1a3d9969b60800000000000000
+      internalID: 7752552942799878766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395b8a7a7968e9810800000000000000
+      internalID: 1774003289141589395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c800b374a169de8b0800000000000000
+      internalID: -5121272161642020724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c6e811ec812e470800000000000000
+      internalID: 8422321526473124994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435bafd14664c5af0800000000000000
+      internalID: -406372470556543692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0ec3289eb32f450800000000000000
+      internalID: 6121020717648371897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44c6275fb1731f70800000000000000
+      internalID: 9156787533989200970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99cdfb940302d770800000000000000
+      internalID: 8633966753954515359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074a22157bd968430800000000000000
+      internalID: 3784885947517281392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_47
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64729ddba2434290800000000000000
+      internalID: -7907403214808255377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_48
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624af6035f1452f00800000000000000
+      internalID: 1091351006042629158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_49
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cc731b69e4f9840800000000000000
+      internalID: 5232987701153090653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc68e078befea180800000000000000
+      internalID: -9102057728747475728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_51
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf1929d1617ec830800000000000000
+      internalID: 4093333776395476919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e431bfa522192ce50800000000000000
+      internalID: 6828179561788412750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5aaa68d8554bc80800000000000000
+      internalID: -8307921346253642324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_54
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7cf11f3a899a7c0800000000000000
+      internalID: -4059545759205308445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_55
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce355d51d578e1f40800000000000000
+      internalID: 5701143012165637100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_56
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0896b09f53b2b00800000000000000
+      internalID: 804796302170357974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_57
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1350b524eb8dfd50800000000000000
+      internalID: 6772723226636210974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_58
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3001cb42a363a1e80800000000000000
+      internalID: -8207187747576999933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d861a22d1e3dd7740800000000000000
+      internalID: 5151506515628791437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f6e81b9eb025cb0800000000000000
+      internalID: -4876822348154638503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a38ebd206c02660800000000000000
+      internalID: 7359099506705054285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a1cb2504dcc2230800000000000000
+      internalID: 3615490277021325944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7cf599834230b70800000000000000
+      internalID: 8863968317105227730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69107d362fcafa470800000000000000
+      internalID: 8408129186381103510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4494e7ada7aec9d90800000000000000
+      internalID: -7089533900015384252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6fb31abcdf53ef0800000000000000
+      internalID: -128917963284941142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284729906b2731a90800000000000000
+      internalID: -7344400441140939646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9432fccef5c7cbcd0800000000000000
+      internalID: -2541019338307067063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad010e7b830a76f0800000000000000
+      internalID: -686232095571243607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a1ea959e7714230800000000000000
+      internalID: 3621307419498257055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_71
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892a3cdd39e087d30800000000000000
+      internalID: 4429306261762450072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94048127228c76cd0800000000000000
+      internalID: -2564861412495572919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_73
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cf906a37bba64c0800000000000000
+      internalID: -4293413189363041241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_74
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4c5f553117e6810800000000000000
+      internalID: 1760468832208930027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d20d474d49d6cd0800000000000000
+      internalID: -2563228972690166501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_76
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ef625c69c6c9980800000000000000
+      internalID: -8530824199338000830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_77
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141488d6c5be9bd40800000000000000
+      internalID: 5600766393819087169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489eab17998a589c0800000000000000
+      internalID: -3925546123191981692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_79
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae69bfeec3c445f50800000000000000
+      internalID: 6869199156238063338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_80
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44427a922f234fce0800000000000000
+      internalID: -1372415970778864572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca45fb6d3f849b0c0800000000000000
+      internalID: -4559532935618800468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a789caf450bf3c0800000000000000
+      internalID: -4324857177403000293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854b1a8146f0bcfa0800000000000000
+      internalID: -5779508774215502760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ca47b414eadc600800000000000000
+      internalID: 490239529915296856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0f98784d46aeb00800000000000000
+      internalID: 858609542937309384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81502012c1e50deb0800000000000000
+      internalID: -4697150936441551592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264f23b8470d0a830800000000000000
+      internalID: 4080490461367825506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72969fd27fb85e70800000000000000
+      internalID: 9104237146827821694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_89
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef803123e4232330800000000000000
+      internalID: 3684829478052204517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_90
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af8b6fad1ce00360800000000000000
+      internalID: 7133961421996134304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df0dc04f2c734a10800000000000000
+      internalID: 1892492810818228183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_92
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b21b7ccc4b060c30800000000000000
+      internalID: 4325156916611977913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_93
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a4dcf0f474eef30800000000000000
+      internalID: 4606697873739696654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fa5633c008d6cd0800000000000000
+      internalID: -2563251823013679339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4031d96fdc5704f00800000000000000
+      internalID: 1099007836544635652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_96
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667c206edea0a9400800000000000000
+      internalID: 331589539447621478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_97
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025419165292ec2f0800000000000000
+      internalID: -950777230801156832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_98
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a14d3870e67cfa0800000000000000
+      internalID: -5780530618151200158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_99
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778f21dc89e20b900800000000000000
+      internalID: 698109176052906103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_100
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167ca5bf5d5bd8ba0800000000000000
+      internalID: -6085007590857980063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_101
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8dfe1e524650f50800000000000000
+      internalID: 6846988922353866980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_102
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09d95e26ebe33be0800000000000000
+      internalID: -1498594877131597558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_103
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e525651a393d3b0800000000000000
+      internalID: -5488881199687246190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_104
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c00a0059d4e45c0800000000000000
+      internalID: -4229357697698362246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3457db474c170830800000000000000
+      internalID: 4037226683501597758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4dc9fc02f27a1d0800000000000000
+      internalID: -3339648780703312657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefbe782f2baf41a0800000000000000
+      internalID: -6823046691411804180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4442aca24dcc5550800000000000000
+      internalID: 6151016877329105997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_109
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b301c4522fc3659d0800000000000000
+      internalID: -2785972308776579013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_110
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7163f479a87f992b0800000000000000
+      internalID: -5577154488905550313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_111
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392e913a415b41260800000000000000
+      internalID: 7067472815491506835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_112
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82b32077df1154e0800000000000000
+      internalID: -1994778149788601713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_113
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93daa715171951b30800000000000000
+      internalID: 4257468938632998201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_114
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3beee6c2b6cc2e0800000000000000
+      internalID: -2104189087304993867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_115
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe461e38fdb8ba10800000000000000
+      internalID: 1925497714592075512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad830c13a66123c0800000000000000
+      internalID: -4386111711346455128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_117
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d96484e1c3c41b0800000000000000
+      internalID: -5671091730007024339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_118
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311084de94fde5790800000000000000
+      internalID: -7539343217565105901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_119
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74d2bd5c06531ba0800000000000000
+      internalID: -6119452857554774915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_120
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da5cda34db0c1390800000000000000
+      internalID: -7846383444637754665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_121
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92cf834919706f90800000000000000
+      internalID: -6962431874500148578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_122
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24338cf26c4f0d6e0800000000000000
+      internalID: -1814681517787958462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_123
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf26a010c3ec2b500800000000000000
+      internalID: 410617273154953979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_124
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c880feb03032fdcc0800000000000000
+      internalID: -3684187474173687668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_125
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a1b993faa511e70800000000000000
+      internalID: 9084141632015243850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_126
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa6aecb45e67d870800000000000000
+      internalID: 8707549714769930917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_127
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f547d0647d5ac170800000000000000
+      internalID: 8199468826003719673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_128
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e4379f0c1e55d00800000000000000
+      internalID: 960922314448522852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081175831ac99a770800000000000000
+      internalID: 8622595177826423168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2098da4b1f50221d0800000000000000
+      internalID: -3377130234897921790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6147defc32fa77b0800000000000000
+      internalID: -5225598073822559893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3701fe50d7b401820800000000000000
+      internalID: 2886890361487036531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc016819c3fac4c0800000000000000
+      internalID: -4266329651957134081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea2a2e348921fe60800000000000000
+      internalID: 7994216461514713831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_135
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b536b763a2722b6b0800000000000000
+      internalID: -5282116350696004773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_136
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62513a06212f260b0800000000000000
+      internalID: -5736756814571956954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_137
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a359bd4a78e2a40800000000000000
+      internalID: 5345358949863733762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_138
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dba11969261e9a0800000000000000
+      internalID: -6205570412720767638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_139
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf442512e47645c30800000000000000
+      internalID: 4347213125583521019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_140
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6680a1ac6b284f0800000000000000
+      internalID: -827898402346342658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63698c40dff139560800000000000000
+      internalID: 7319228990974629430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_142
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d67a329a1a1b1570800000000000000
+      internalID: 8438367028233533143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_143
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748a0453351845f60800000000000000
+      internalID: 8022179030629394503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_144
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b137bf660f30ce0800000000000000
+      internalID: -1440043130732471425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_145
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ae06485c6f59180800000000000000
+      internalID: -9109103343097025900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_146
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a0771e1a3110960800000000000000
+      internalID: 7566350434952481439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_147
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc490cbb5ef4a4d60800000000000000
+      internalID: 7875194746526799052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_148
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e510259ada520180800000000000000
+      internalID: -9150651598012148247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_149
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347294110a2714f30800000000000000
+      internalID: 4558050329685993283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_150
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b659f7b76de259940800000000000000
+      internalID: 5302195635028465003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_151
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d096ee96d7c2de920800000000000000
+      internalID: 3021119842195237133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_152
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c4f5ba3b577fd70800000000000000
+      internalID: 9076852988523269180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84696eeadee51990800000000000000
+      internalID: -7415758587325487986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_154
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1c2307ae325b6c0800000000000000
+      internalID: -4128353993603497505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_155
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db9019e3f1315d60800000000000000
+      internalID: 7877132146904701913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_156
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad9fbf2b54ffd1b0800000000000000
+      internalID: -5629512336709542490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_157
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ed6c4a216045590800000000000000
+      internalID: -7686511986870919609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_158
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee1ae0cc2458d7a0800000000000000
+      internalID: -6352234723214221597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_159
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d68c63f559cc11e0800000000000000
+      internalID: -2225682744834488616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_160
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d00f831b9f72170800000000000000
+      internalID: 8153760189937356059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_161
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a5ee3895c0efb90800000000000000
+      internalID: -7206308775141156217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_162
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9080df4b7cd9bd530800000000000000
+      internalID: 3880868984970348553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_163
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ccc530d5a996570800000000000000
+      internalID: 8460463099271236761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_164
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b91063f20f79930800000000000000
+      internalID: 4150049667205405510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d87200c361cd1530800000000000000
+      internalID: 3827427892502100180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_166
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860d774abee001f30800000000000000
+      internalID: 4544148429256249448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0f22c517dd95540800000000000000
+      internalID: 4997268740491112618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_168
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87b112d98a9d93b0800000000000000
+      internalID: -5504073252851304562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_169
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb5a0412b7e63cc0800000000000000
+      internalID: -3731540489203459145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_170
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1904ea8c3e7bbb070800000000000000
+      internalID: 8123288541845143697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_171
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db3469e5c4552970800000000000000
+      internalID: 8729476661728525273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_172
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6504213fc1d8921a0800000000000000
+      internalID: -6833775804081356714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_173
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbf8161f18851150800000000000000
+      internalID: 5842725758679186387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_174
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b75acb1ca956e9f0800000000000000
+      internalID: -439565317886552142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_175
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510b25513af586ae0800000000000000
+      internalID: -1555888517214457835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6da7af9c08823d0800000000000000
+      internalID: -3231191127659194647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_177
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432d2989f232e2f70800000000000000
+      internalID: 9164300979075732020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592c5e61520145fd0800000000000000
+      internalID: -2354238953723936107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_179
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3266a1c5d69f5dae0800000000000000
+      internalID: -1525038650703059421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_180
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdeb5e47d73bdf9c0800000000000000
+      internalID: -3891757151564742945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_181
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abc45b3f286de8d0800000000000000
+      internalID: -2815479639968527447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_182
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c758a02e9cde5d0800000000000000
+      internalID: -3031545001474163624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_183
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ada0eed659b91d50800000000000000
+      internalID: 6708596902702656936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_184
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f14cf99e41383e50800000000000000
+      internalID: 6789230651921678839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_185
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d84048aaaeecec0800000000000000
+      internalID: -3544637838613770857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_186
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e4d368752808c20800000000000000
+      internalID: 3206706247113723475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_187
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798b42e165fbd4230800000000000000
+      internalID: 3624763651696933015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_188
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca5edd6e5e88f6d0800000000000000
+      internalID: -2956456619147371826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_189
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54c18bc579c41d40800000000000000
+      internalID: 5554285748217300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_190
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae56cb1b9411c980800000000000000
+      internalID: -8520506363589796188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_191
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c62506e63f8ccf0800000000000000
+      internalID: -231667725421613957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_192
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba91ecea473e8940800000000000000
+      internalID: 5300234606402968249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_193
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7ae393069ec3770800000000000000
+      internalID: 8591998788602603475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1429e9d0d9934890800000000000000
+      internalID: -7474961834216709093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_195
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cbeafe2ee7079a0800000000000000
+      internalID: -6237345970759222144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_196
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81313e921aa40410800000000000000
+      internalID: 1442464777605558670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_197
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e06bf09f8e0ae590800000000000000
+      internalID: -7644281407732490012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_198
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c730cbfd8a08576c0800000000000000
+      internalID: -4146266419128171652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_199
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f8dc83550ab4720800000000000000
+      internalID: 2831533078618148622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_200
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273f46471bd452a20800000000000000
+      internalID: 3036918948288590706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_201
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3480e90bcb6337cd0800000000000000
+      internalID: -2561643578998781885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_202
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b9861949c2009d0800000000000000
+      internalID: -2810197150872855700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_203
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c84b2ff24504580800000000000000
+      internalID: -8844977103243539396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_204
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04257e7b8967a80f0800000000000000
+      internalID: -1113947559528279488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_205
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63c8d2e0d99b2a90800000000000000
+      internalID: -7337602045431987348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_206
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8c2c641191254d0800000000000000
+      internalID: -3147425627586246424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_207
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daba30fab1b3f680800000000000000
+      internalID: -8722432636834104615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_208
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5483a93edc56150800000000000000
+      internalID: 5865320467148588512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_209
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c21d34e36a3fbc0800000000000000
+      internalID: -3750471278313526270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_210
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc66af573a764240800000000000000
+      internalID: 4775638833119521968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_211
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba23453b4b9b2c90800000000000000
+      internalID: -7193485232475788622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_212
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658a5720547b6ed70800000000000000
+      internalID: 9072140006406334550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_213
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48030873d268b6490800000000000000
+      internalID: -7751954804825378684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_214
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6f17efd405666d0800000000000000
+      internalID: -2997620206056900879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_215
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2388632e1a6e3e0800000000000000
+      internalID: -2024752989506882834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_216
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea637e9a17350aa60800000000000000
+      internalID: 7683232711940978350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_217
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a8f0350a4afce60800000000000000
+      internalID: 7984781672846428754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_218
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7973e5c5327c16a0800000000000000
+      internalID: -6477176588786763394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_219
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a073cb32fac64e0800000000000000
+      internalID: -1987020767560791421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_220
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11e49ac649b66230800000000000000
+      internalID: 3631793863218487583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_221
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91574b33ae0902b60800000000000000
+      internalID: 7719329096877241625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_222
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2307c2eb612e02f20800000000000000
+      internalID: 3395962706345095218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_223
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525a408c6294dbc60800000000000000
+      internalID: 7835499357607863589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_224
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80662935783398170800000000000000
+      internalID: 8181126854410921480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_225
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7572724e8df17300800000000000000
+      internalID: 248258241924068730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_226
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd97f9335b3a080e0800000000000000
+      internalID: -2269634213544232483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_227
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae229ef1230f969c0800000000000000
+      internalID: -3933348701457014038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_228
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770d551441c6e6cb0800000000000000
+      internalID: -4868835312889638793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_229
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffccfe9fc72b3cf0800000000000000
+      internalID: -271579579846701057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_230
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d9f6bc9b26c9a90800000000000000
+      internalID: -7305855945380225732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_231
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e207f95274e02a50800000000000000
+      internalID: 6494441842455020263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_232
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648bef06b2affbd80800000000000000
+      internalID: -8232586529592133562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_233
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a47d7c89694df070800000000000000
+      internalID: 8141744419033150624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_234
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedf2d430eac9eaa0800000000000000
+      internalID: -6131146353380491795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_235
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072d15e81c41dc7e0800000000000000
+      internalID: -1743714659173543312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_236
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f3aeb27fe4ed810800000000000000
+      internalID: 1791956525240696679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_237
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21202c68ea07e110800000000000000
+      internalID: 1290011811627671853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_238
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3387e5639f2f86c80800000000000000
+      internalID: -8329140358648793037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_239
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5780a87d80f8801c0800000000000000
+      internalID: -4537219356437116811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_240
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff465b45857eae530800000000000000
+      internalID: 3885171995124786431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_241
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1bc29bf2cf09ec0800000000000000
+      internalID: -3562070023349685817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_242
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acff1bbe84edfa80800000000000000
+      internalID: -8431331625691775833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_243
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1be510396798760800000000000000
+      internalID: 7460624631471190480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DimensionStart0.5_244
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c751a8d225bc75f0800000000000000
+      internalID: -757531476037118013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
